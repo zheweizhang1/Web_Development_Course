@@ -16,7 +16,7 @@
 8. The Cascading System (Specificty and Inheritance)
 9. Combining CSS selectors
 
-Next class we will pick up on **CSS Positioning**  
+Next class we will pick up on **CSS Combining CSS Selectors**  
  
 <br><br>
 
@@ -91,19 +91,17 @@ From lowest to highest priority.
 3. Type: external, internal, inline (lowest - highest priority)
 4. Importance: use of keyword '!important' next to attribute
 
-[Example]()
+[Example](./the_cascading_system/index.html)
 
 
 
-## Class Assignment
-Create 5 boxes diagonally, and have their borders double as you go down the page. Write any text in each of the boxes with all the padding attributes set to 10px.  
+## Homework Assignment
+Create 5 boxes diagonally using the box-model and the tag <div>, and have their borders double as you go down the page. Write any text you'd like in each of the boxes with all the padding attributes set to 10px. See examples from class 2 lecture on github. Submit the deployed website like you did for question 1.
 
 
-## 9. Combining CSS Selectors
+## 9. Combining CSS Selectors(Next class preview)
 1. Group with ,
 2. child with > 
 3. Descendant "class class"
 4. chaining selectors no space between selectors, to find specific element
 5. combining combiners 
-
-[Example]()
