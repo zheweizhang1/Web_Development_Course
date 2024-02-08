@@ -1,3 +1,7 @@
+*{
+    text-align: center;
+}
+
 h1{
   color: blue;  
 }
@@ -14,6 +18,3 @@ a[href]{
     background-color: chocolate;
 }
 
-*{
-    text-align: center;
-}

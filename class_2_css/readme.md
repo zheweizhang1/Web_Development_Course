@@ -87,12 +87,18 @@ We can also use the \<div\> tag to group elements together and create larger box
 There is a defined order that attribute values get applied to elements in the case where there is more than one assignment.   
 From lowest to highest priority.
 1. Positioning: bottommost elements have higher priority
-2. Specificity(selectors): Universal, Element,Class,Attribute(lowest - highest priority)
+2. Specificity(selectors): Universal, Element, Class,id, Attribute(lowest - highest priority)
 3. Type: external, internal, inline (lowest - highest priority)
 4. Importance: use of keyword '!important' next to attribute
 
 [Example]()
- 
+
+
+
+## Class Assignment
+Create 5 boxes diagonally, and have their borders double as you go down the page. Write any text in each of the boxes with all the padding attributes set to 10px.  
+
+
 ## 9. Combining CSS Selectors
 1. Group with ,
 2. child with > 
