@@ -1,8 +1,10 @@
-# Things To Download This Week (Todays date 02/07/2024)
+# Class 2 CSS
+
+## Things To Download This Week (Todays date 02/07/2024)
 1. Markdown All in One extension in vscode (optional)
 <br><br>
 
-# Weekly important links:
+## Weekly important links:
 * https://fonts.google.com/
 
 ## Table of contents:
@@ -94,9 +96,8 @@ From lowest to highest priority.
 [Example](./the_cascading_system/index.html)
 
 
-
 ## Homework Assignment
-Create 5 boxes diagonally using the box-model and the tag <div>, and have their borders double as you go down the page. Write any text you'd like in each of the boxes with all the padding attributes set to 10px. See examples from class 2 lecture on github. Submit the deployed website like you did for question 1.
+Create 5 boxes diagonally using the box-model and the tag \<div\>, and have their borders double as you go down the page. Write any text you'd like in each of the boxes with all the padding attributes set to 10px. See examples from class 2 lecture on github. Submit the deployed website like you did for question 1.
 
 
 ## 9. Combining CSS Selectors(Next class preview)
