@@ -5,7 +5,7 @@
 <br><br>
 
 ## Weekly important links:
-* https://fonts.google.com/
+* [google fonts](https://fonts.google.com/)
 
 ## Table of contents:
 1. Introduction to Markdown

@@ -7,7 +7,7 @@
 4. CSS Display
 5. Float
 6. Media Queries
-7.  Notes
+7. Notes
 
 ## 1. Links
 NONE
@@ -53,7 +53,7 @@ See [Example](./media_queries/index.html)
 
 
 ## 7. Notes
-* Next class flex, Grid, bootstrap, and javascript
+* Next class flex, Grid, bootstrap
 * Play with box-model on chrome
 * Homework: None
 * Note that class="first second" is how you assign two classes to the same tag.

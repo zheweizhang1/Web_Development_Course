@@ -5,24 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        p{
+            text-align: center;
+        }
+
         .flex-container{
             display: flex;
             gap: 10px;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row-reverse;
         }
 
         .red{
             background-color: red;
+            flex-grow: 1;
         }
 
         .blue{
             background-color: blue;
+            flex-grow: 2;
         }
 
         .orange{
             background-color: orange;
+            flex-grow: 1;
+            max-width: 400px;
         }
         div > div{
-            flex-basis: 200px;
+            flex-basis: 100px;
+            width: 100px;
         }
 
     </style>
