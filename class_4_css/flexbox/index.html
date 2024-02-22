@@ -9,30 +9,46 @@
             text-align: center;
         }
 
+        /* parent container*/
         .flex-container{
             display: flex;
             gap: 10px;
-            height: 100vh;
+            background-color: black;
+            flex-direction: row;
             justify-content: center;
             align-items: center;
-            flex-direction: row-reverse;
+            height: 100vh;
         }
 
+        /* child items */
         .red{
             background-color: red;
-            flex-grow: 1;
+            order: 1;
+            flex-basis: 200px;
+            align-self: flex-end;
         }
 
+        /* child items */
         .blue{
             background-color: blue;
-            flex-grow: 2;
+            order: 2;
+    
         }
 
+        /* child items */
         .orange{
             background-color: orange;
-            flex-grow: 1;
             max-width: 400px;
+     
         }
+
+        /* child items */
+        .indigo{
+            background-color: indigo;
+           
+           
+        }
+
         div > div{
             flex-basis: 100px;
             width: 100px;
@@ -45,11 +61,17 @@
         <div class="red">
            <p> red </p> 
         </div>
+
         <div class="blue">
             <p> blue </p> 
         </div>
+
         <div class="orange">
             <p> orange </p> 
+        </div>
+
+        <div class="indigo">
+            <p> indigo </p> 
         </div>
          
     </div>

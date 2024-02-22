@@ -1,4 +1,4 @@
-# Class 4 CSS and javascript
+# Class 4 CSS
 
 ## Table of contents:
 1. Links
@@ -55,4 +55,4 @@ You can also visit the documentation and play around with what you can implement
 
 
 ## 5. Notes
-* Homework: Make a website for a company of your choice using bootstrap, be sure to include: 
+* Homework : Complete the grid garden game, and submit your answers on a .txt file to blackboard. 
